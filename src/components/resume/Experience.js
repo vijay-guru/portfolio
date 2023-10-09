@@ -15,17 +15,17 @@ const Experience = () => {
           <h2 className="text-4xl font-bold">Job Experience</h2>
         </div>
         <div className="mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
+         <ResumeCard
+            title="Member Technical Staff"
+            subTitle="Zoho Corporation - (10/2022 - Present)"
+            result="Tamilnadu,IND"
+            des="Working as a Backend Developer for business solution software - Zoho Books"
+          />
           <ResumeCard
             title="Software Development Engineer Intern"
             subTitle="Quinbay Technologies - (07/2022 - 06/2023)"
             result="Coimbatore,IND"
             des="An Indonesian E-Commerce company (blibli.com). Had worked as a Backend dev Intern in the team that develop the product used by merchant in their physical store."
-          />
-              <ResumeCard
-            title="Member Technical Staff"
-            subTitle="Zoho Corporation - (10/2022 - Present)"
-            result="TamilNadu,IND"
-            des="Working as a Backend Developer for business solution software - Zoho Books"
           />
         </div>
       </div>
