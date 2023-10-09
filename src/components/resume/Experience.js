@@ -21,6 +21,12 @@ const Experience = () => {
             result="Coimbatore,IND"
             des="An Indonesian E-Commerce company (blibli.com). Had worked as a Backend dev Intern in the team that develop the product used by merchant in their physical store."
           />
+              <ResumeCard
+            title="Member Technical Staff"
+            subTitle="Zoho Corporation - (10/2022 - Present)"
+            result="TamilNadu,IND"
+            des="Working as a Backend Developer for business solution software - Zoho Books"
+          />
         </div>
       </div>
     </motion.div>
