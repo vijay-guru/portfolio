@@ -24,7 +24,7 @@ const Experience = () => {
           <ResumeCard
             title="Software Development Engineer Intern"
             subTitle="Quinbay Technologies - (07/2022 - 06/2023)"
-            result="Coimbatore,IND"
+            result="Tamilnadu,IND"
             des="An Indonesian E-Commerce company (blibli.com). Had worked as a Backend dev Intern in the team that develop the product used by merchant in their physical store."
           />
         </div>
