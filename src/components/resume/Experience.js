@@ -19,7 +19,7 @@ const Experience = () => {
             title="Member Technical Staff"
             subTitle="Zoho Corporation - (10/2022 - Present)"
             result="Tamilnadu,IND"
-            des="Working as a Backend Developer for business solution software - Zoho Books"
+            des="Working as a Backend Developer for business solution software - Zoho Expense"
           />
           <ResumeCard
             title="Software Development Engineer Intern"
