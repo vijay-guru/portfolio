@@ -14,7 +14,7 @@ const ContactLeft = () => {
       <div className="flex flex-col gap-4">
         <h3 className="text-3xl font-bold text-white">Vijay G</h3>
         <p className="text-lg font-normal text-gray-400">
-          MERN Stack Developer
+          Full Stack Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
           1210L/6 , Rajiv nagar , 6th street , Kovilpatti - 628501
